@@ -104,9 +104,8 @@ Add email confirmation after registration and order
 
 ## 🙋 Author
 Lekhansh Hedau
-📧 lekhansh@example.com
-🔗 LinkedIn
-🌐 Portfolio: [Coming Soon]
+📧 lekhansh.hedau29@gmail.com
+🔗 LinkedIn - https://www.linkedin.com/in/lekhansh-hedau-131005264/
 
 
 ## 🪪 License
